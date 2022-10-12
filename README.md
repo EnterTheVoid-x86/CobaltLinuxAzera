@@ -3,7 +3,8 @@
 # Cobalt Linux Azera
 The terminal loving, suckless user's dream setup.
 
-Cobalt Linux Azera is a meta-distributiton, of which provides a simple, clean, no distractions dwm setup for everyday use. It does not rely on any compostiors, and allows you to work as fast as possible.
+Cobalt Linux Azera is a meta-distributiton, of which provides a simple, clean, no distractions
+dwm setup for everyday use. It does not rely on any compostiors, and allows you to work as fast as possible.
 
 # License
 All files within this repo are released under the [GNU GPLv3 License](https://en.wikipedia.org/wiki/GPL_License) as per the [LICENSE file](https://github.com/EnterTheVoid-x86/CobaltLinuxAzera/blob/main/LICENSE.md) stored in the root of this repo.
