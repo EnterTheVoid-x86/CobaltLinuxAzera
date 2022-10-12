@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Cobalt logo" src="https://github.com/EnterTheVoid-x86/CobaltLinuxAzera/blob/master/cobalt-logo.png">   
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Cobalt logo" src="https://github.com/EnterTheVoid-x86/CobaltLinuxAzera/blob/master/Cobalt Linux.png">   
 
 # Cobalt Linux Azera
 The terminal loving, suckless user's dream setup.
